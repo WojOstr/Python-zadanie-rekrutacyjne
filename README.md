@@ -1,4 +1,20 @@
-# Zadanie rekrutacyjne Python
+# Zadania Python
+
+Skrypty do dwóch zadań w języku Python. 
+
+Treść pierwszego zadania: 
+
+Write a program that reads a text file and then makes a copy of it,
+in which the order of the letters in each word is randomly changed except for
+first and last letter of the word.
+
+
+Treść drugiego zadania:
+
+Write a program to validate the PESEL number according to the official
+format specification. Prepare unit tests that check several data
+incorrect data and at least one correct pesel number.
+
 
 ## Zadanie 1 
 Zadanie znajduje się w folderze "Zadanie1".
